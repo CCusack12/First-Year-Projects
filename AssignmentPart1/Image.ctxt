@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Image
+comment0.text=\r\nStudent\ ID\ \:\ \ \ \ \ \ \ \ 21313091\r\nName\:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Conor\ Cusack\r\n
+comment1.params=pixels
+comment1.target=Image(int[][])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=horizontal
+comment3.target=void\ flip(boolean)
+comment4.params=clockwise
+comment4.target=void\ rotate(boolean)
+numComments=5

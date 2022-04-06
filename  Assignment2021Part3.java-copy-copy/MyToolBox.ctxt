@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyToolBox
+comment0.text=\r\n\ Assignment\ part\ 3\r\n\ Conor\ Cusack\r\n\ 21313091\r\n
+comment1.params=
+comment1.target=java.lang.String\ timeOfDay()
+comment2.params=width
+comment2.target=void\ tweetHeader(int)
+comment3.params=tweetText\ width
+comment3.target=void\ displayTweet(java.lang.String,\ int)
+comment4.params=tweetText\ symbol
+comment4.target=int\ countOf(java.lang.String,\ char)
+comment5.params=tweet\ width
+comment5.target=void\ analyse(java.lang.String,\ int)
+numComments=6
